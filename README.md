@@ -33,11 +33,11 @@ Programa para gerenciar os seus anúncios online. O objetivo dos anúncios faz p
 
 1. abrir o diretório em seu computador : C:\xampp\htdocs
 
-2. Copiar e colar a pasta "parte02" deste diretório
+2. Colar a pasta "parte02" deste projeto
 
 3. Abrir e editar as classes abaixo para inserir as informações referentes a conexão com o banco de dados:
 
-   /parte02/view/filtraranuncio.php 
+   /parte02/view/filtraranuncio.php  
    /parte02/view/filtraranuncio2.php
    /parte02/model/db.php
 
@@ -82,6 +82,12 @@ Desenvolvido com as seguintes tecnologias
 - [PHP]
 - [Javascript] 
 - [MySQL]
+
+
+
+![image-20210516172429129](https://raw.githubusercontent.com/raudneirigaud/divulgatudocapgeminidesafio/main/image-20210516172429129.png)
+
+
 
 
 
