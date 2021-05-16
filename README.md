@@ -23,18 +23,29 @@ Programa para gerenciar os seus anúncios online. O objetivo dos anúncios faz p
 
 3. Abrir o PhPMyAdmin e realizar a importação do banco de dados (http://localhost/phpmyadmin/) 
 
-4. abrir o diretório : C:\xampp\htdocs
+   *banco de dados disponível no diretório para importação
 
-5. Colar a pasta "parte02" 
-
-6. Ao final, será iniciado um servidor local de desenvolvimento no endereço http://localhost/parte02/
+   ​      divulgatudocapgeminidesafio/divulgatudo.sql
 
    
 
 ## Como compilar e executar o programa
 
-1. Abrir o navegador
-2. Digitar a URL:  http://localhost/parte02/
+1. abrir o diretório em seu computador : C:\xampp\htdocs
+
+2. Copiar e colar a pasta "parte02" deste diretório
+
+3. Abrir e editar as classes abaixo para inserir as informações referentes a conexão com o banco de dados:
+
+   /parte02/view/filtraranuncio.php 
+   /parte02/view/filtraranuncio2.php
+   /parte02/model/db.php
+
+4. Abra seu navegador e digite a URL:  http://localhost/parte02/
+
+   *Em casos de erro ao clicar nos links do cabeçalho, abrir o arquivo abaixo e editar as urls dos links de acordo com endereço do seu servidor local ;
+
+   /parte02/view/menu.php
 
 
 
