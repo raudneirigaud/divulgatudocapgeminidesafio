@@ -4,7 +4,7 @@
 
 -Desafio de Programação: Academia Capgemini
 
-![image-20210515192215093](C:\xampp\htdocs\image-20210515192058257.png)
+![image-20210515192215093](https://raw.githubusercontent.com/raudneirigaud/divulgatudocapgeminidesafio/main/image-20210515192058257.png)
 
 
 
@@ -42,25 +42,25 @@ Programa para gerenciar os seus anúncios online. O objetivo dos anúncios faz p
 
 ###  Cadastro de anúncio
 
-![image-20210515192609140](C:\xampp\htdocs\image-20210515192609140.png)
+![image-20210515192609140](https://raw.githubusercontent.com/raudneirigaud/divulgatudocapgeminidesafio/main/image-20210515192609140.png)
 
 Clicar no menu "Cadastrar anúncio" em seguida preencher todos os campos do formulário com dados válidos e clicar no botão "CADASTRAR ANÚNCIO"
 
 ### Filtrar anúncios por cliente
 
-![image-20210515193001043](C:\xampp\htdocs\image-20210515193001043.png)
+![image-20210515193001043](https://raw.githubusercontent.com/raudneirigaud/divulgatudocapgeminidesafio/main/image-20210515193001043.png)
 
 Clicar no menu "Filtrar Anúncios Por Cliente" em seguida preencher todos os campos do formulário com dados válidos e clicar no botão "FILTRAR"
 
 ### Filtrar anúncios por data
 
-![image-20210515193402979](C:\xampp\htdocs\image-20210515193402979.png)
+![image-20210515193402979](https://raw.githubusercontent.com/raudneirigaud/divulgatudocapgeminidesafio/main/image-20210515193402979.png)
 
 Clicar no menu "Filtrar Anúncios Por Data" em seguida preencher todos os campos do formulário com dados válidos e clicar no botão "FILTRAR"
 
 ## Listar todos anúncios cadastrados no sistema
 
-![image-20210515193654867](C:\xampp\htdocs\image-20210515193654867.png)
+![image-20210515193654867](https://raw.githubusercontent.com/raudneirigaud/divulgatudocapgeminidesafio/main/image-20210515193654867.png)
 
 Clicar no menu "Listar Anúncios" 
 
